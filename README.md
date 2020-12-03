@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I'm a Front-end developer, I'd like to make some contributions for front-end open source and share some thoughts on my blog and github.
 
-### 📫 How to reach me:
+I am looking for a front-end developer position in a state-owned enterprise
+
+### 📫 How to reach me
 
   - <https://blog.matija.xyz>
   - <https://github.com/cunxu>
