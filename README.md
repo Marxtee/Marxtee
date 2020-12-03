@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Front-end developer,l'd like to make some contributions for front-end open source and share some thoughts on my blog and github.
+I'm a Front-end developer, I'd like to make some contributions for front-end open source and share some thoughts on my blog and github.
 
-### Contact me
+### 📫 How to reach me:
 
   - <https://blog.matija.xyz>
   - <https://github.com/cunxu>
   - <cunxuahh@gmail.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cunxu&show_icons=true&theme=vue&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunxu&theme=vue)
