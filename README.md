@@ -22,3 +22,7 @@ I'm a Front-end developer,l'd like to make some contributions for front-end open
   - <https://blog.matija.xyz>
   - <https://github.com/cunxu>
   - <cunxuahh@gmail.com>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cunxu&show_icons=true&theme=vue&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunxu&theme=vue)
