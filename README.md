@@ -22,7 +22,7 @@ I am looking for a front-end developer position in a Technology Company
 ### 📫 How to reach me
 
   - <https://blog.matija.xyz>
-  - <https://github.com/cunxu>
+  - <https://github.com/Marxtee>
   - <cunxuahh@gmail.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cunxu&show_icons=true&theme=vue&count_private=true)
