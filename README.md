@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate frontend developer from China and would like to make some contributions for front-end open source and share some thoughts on my blog and github.
+𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑪𝒉𝒊𝒏𝒂 𝒂𝒏𝒅 𝒘𝒐𝒖𝒍𝒅 𝒍𝒊𝒌𝒆 𝒕𝒐 𝒎𝒂𝒌𝒆 𝒔𝒐𝒎𝒆 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏𝒔 𝒇𝒐𝒓 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒂𝒏𝒅 𝒔𝒉𝒂𝒓𝒆 𝒔𝒐𝒎𝒆 𝒕𝒉𝒐𝒖𝒈𝒉𝒕𝒔 𝒐𝒏 𝒎𝒚 𝒃𝒍𝒐𝒈 𝒂𝒏𝒅 𝒈𝒊𝒕𝒉𝒖𝒃.  
 
-I am looking for a front-end developer position in a Technology Company now.
+𝑰 𝒂𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓 𝒂 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒑𝒐𝒔𝒊𝒕𝒊𝒐𝒏 𝒊𝒏 𝒂 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝑪𝒐𝒎𝒑𝒂𝒏𝒚 𝒏𝒐𝒘.
 
-𝕴 𝖍𝖆𝖛𝖊 𝖆 𝖉𝖗𝖊𝖆𝖒: Proletarier aller Länder, vereinigt euch!
+𝕴 𝖍𝖆𝖛𝖊 𝖆 𝖉𝖗𝖊𝖆𝖒: 𝑷𝒓𝒐𝒍𝒆𝒕𝒂𝒓𝒊𝒆𝒓 𝒂𝒍𝒍𝒆𝒓 𝑳ä𝒏𝒅𝒆𝒓, 𝒗𝒆𝒓𝒆𝒊𝒏𝒊𝒈𝒕 𝒆𝒖𝒄𝒉!
 
 ### 📫 How to reach me
 
   - 🔗 <https://matija.asia>
   - 💯 <https://github.com/Marxtee>
-  - 🕊️ <https://twitter.com/Karl_Matija> https://img.shields.io/twitter/url?label=Matija&style=social&url=https%3A%2F%2Ftwitter.com%2FKarl_Matija
+  - 🕊️ <https://twitter.com/Karl_Matija> 
   - 💌 <cunxuahh@gmail.com>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Marxtee&show_icons=true&theme=vue&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Marxtee&show_icons=true&theme=graywhite&count_private=true)
