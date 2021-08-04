@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 I'm a Front-end developer, I'd like to make some contributions for front-end open source and share some thoughts on my blog and github.
 
-I am looking for a front-end developer position in a Technology Company
+I am looking for a front-end developer position in a Technology Company.
 
 ### 📫 How to reach me
 
-  - <https://blog.matija.xyz>
-  - <https://github.com/Marxtee>
-  - <cunxuahh@gmail.com>
+  - 🔗 <https://matija.asia>
+  - 💯 <https://github.com/Marxtee>
+  - 💌 <cunxuahh@gmail.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Marxtee&show_icons=true&theme=vue&count_private=true)
