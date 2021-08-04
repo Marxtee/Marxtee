@@ -23,6 +23,7 @@ I am looking for a front-end developer position in a Technology Company.
 
   - 🔗 <https://matija.asia>
   - 💯 <https://github.com/Marxtee>
+  - 🕊️ <https://twitter.com/Karl_Matija>
   - 💌 <cunxuahh@gmail.com>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Marxtee&show_icons=true&theme=vue&count_private=true)
