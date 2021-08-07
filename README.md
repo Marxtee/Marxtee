@@ -23,9 +23,34 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me
 
-  - 🔗 <https://matija.asia>
+<!--   - 🔗 <https://matija.asia>
   - 💯 <https://github.com/Marxtee>
   - 🕊️ <https://twitter.com/Karl_Matija> 
-  - 💌 <cunxuahh@gmail.com>
+  - 💌 <cunxuahh@gmail.com> -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Marxtee&show_icons=true&theme=graywhite&count_private=true)
+```mysql
+mysql> SELECT * FROM `Marxtee`.`user`;
++----+--------------------+------------+-------------------------+
+| id | truename           | birthday   | website                 |
++----+--------------------+------------+-------------------------+
+|  1 | 李嘉诚 Li Jiacheng  | 1998-12-06 | https://matija.asia     |
++----+--------------------+------------+-------------------------+
+1 row in set (0.05 sec)
+
+mysql> SELECT * FROM `Marxtee`.`contact`;
++----+--------------+-------------------------------------------------+
+| id | contact_key  | contact_value                                   |
++----+--------------+-------------------------------------------------+
+|  1 | Email        | 16864316840@qq.com                              |
+|  2 | Email        | cunxuahh@gmail.com                              |
+|  3 | WeiChat      | karlmatija                                      |
+|  4 | QQ           | 1686431684                                      |
+|  5 | ZhiHu        | https://www.zhihu.com/people/marxtee/posts      |
+|  6 | Twitter      | https://twitter.com/Karl_Matija                 |
+|  7 | SegmentFault | https://segmentfault.com/u/matija               |
+|  8 | GitHub       | https://github.com/marxtee                      |
++----+--------------+-------------------------------------------------+
+8 rows in set (0.07 sec)
+
+mysql> 
+```
