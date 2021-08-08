@@ -25,13 +25,13 @@ mysql> SELECT * FROM `Marxtee`.`contact`;
 |  2 | Email        | cunxuahh@gmail.com                              |
 |  3 | WeChat       | karlmatija                                      |
 |  4 | QQ           | 1686431684                                      |
-|  5 | ZhiHu        | https://www.zhihu.com/people/marxtee/posts      |
-|  6 | Twitter      | https://twitter.com/Karl_Matija                 |
-|  7 | SegmentFault | https://segmentfault.com/u/matija               |
-|  8 | Yuque        | https://www.yuque.com/matija                    |
+|  5 | Twitter      | https://twitter.com/Karl_Matija                 |
+|  6 | SegmentFault | https://segmentfault.com/u/matija               |
+|  7 | Yuque        | https://www.yuque.com/matija                    |
+|  8 | ZhiHu        | https://www.zhihu.com/people/marxtee/posts      |
 |  9 | GitHub       | https://github.com/marxtee                      |
 +----+--------------+-------------------------------------------------+
-8 rows in set (0.07 sec)
+9 rows in set (0.07 sec)
 
 mysql> 
 ```
