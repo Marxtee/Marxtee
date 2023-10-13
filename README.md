@@ -21,17 +21,16 @@ mysql> SELECT * FROM `Marxtee`.`contact`;
 +----+--------------+-------------------------------------------------+
 | id | contact_key  | contact_value                                   |
 +----+--------------+-------------------------------------------------+
-|  1 | Email        | 1686431684@qq.com                               |
+|  1 | Email        | karl_matija@outlook.kr                          |
 |  2 | Email        | cunxuahh@gmail.com                              |
 |  3 | WeChat       | karlmatija                                      |
-|  4 | QQ           | 1686431684                                      |
-|  5 | Twitter      | https://twitter.com/Karl_Matija                 |
-|  6 | SegmentFault | https://segmentfault.com/u/matija               |
-|  7 | Yuque        | https://www.yuque.com/matija                    |
-|  8 | ZhiHu        | https://www.zhihu.com/people/marxtee/posts      |
-|  9 | GitHub       | https://github.com/marxtee                      |
+|  4 | Twitter      | https://twitter.com/Karl_Matija                 |
+|  5 | SegmentFault | https://segmentfault.com/u/matija               |
+|  6 | Yuque        | https://www.yuque.com/matija                    |
+|  7 | ZhiHu        | https://www.zhihu.com/people/marxtee/posts      |
+|  8 | GitHub       | https://github.com/marxtee                      |
 +----+--------------+-------------------------------------------------+
-9 rows in set (0.07 sec)
+8 rows in set (0.06 sec)
 
 mysql> 
 ```
