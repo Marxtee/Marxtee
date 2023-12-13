@@ -23,7 +23,7 @@ mysql> SELECT * FROM `Marxtee`.`contact`;
 +----+--------------+-------------------------------------------------+
 |  1 | Email        | karl_matija@outlook.kr                          |
 |  2 | Email        | cunxuahh@gmail.com                              |
-|  3 | WeChat       | karlmmatija                                      |
+|  3 | WeChat       | karlmmatija                                     |
 |  4 | Twitter      | https://twitter.com/Karl_Matija                 |
 |  5 | SegmentFault | https://segmentfault.com/u/matija               |
 |  6 | Yuque        | https://www.yuque.com/matija                    |
